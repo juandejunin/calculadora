@@ -1,0 +1,21 @@
+.contenedor{
+    background-color: rgb(59, 60, 60);
+    width: 300px;
+    height: 600px;
+}
+.titulo{
+    text-align: center;
+    color:azure
+}
+#pantalla{
+    width: 250px;
+    height: 100px;
+    background-color: rgb(151, 243, 76);
+    
+    margin: auto;
+}
+button{
+    width: 50px;
+    height: 40px;
+    margin: 5px;
+}
